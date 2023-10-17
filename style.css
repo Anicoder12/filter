@@ -1,0 +1,17 @@
+body 
+{
+    background-image: url(bg3.jpg);
+    font-weight: bold;
+}
+
+#save
+{
+    background-color: lightcoral;
+}
+
+canvas
+{
+background-color: lightblue;
+border-style: dashed;
+border-color: lemonchiffon;
+}
